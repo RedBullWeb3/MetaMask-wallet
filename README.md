@@ -36,4 +36,4 @@ MetaMask to portfel który służy do obsługi tokenów opartych o sieć Ethereu
 ![metamask_11](img/metamask_11.png)
 9. Gotowe! Nasz portfel MetaMask jest już skonfigurowany i gotowy do użycia!
 
-Teraz mozesz ruszac w swiat Web3 i poznawac cudowne, ale i niebezpieczne przygody w swiecie krypto ! Powodzenia !!!
+Teraz mozesz ruszac w swiat Web3 i poznawac cudowne, ale i niebezpieczne przygody w swiecie krypto! Powodzenia!
